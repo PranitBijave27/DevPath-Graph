@@ -243,6 +243,7 @@ VITE_API_URL=https://<your-backend>/api
 
 ## Screen recording
 
+https://github.com/user-attachments/assets/f69a58a1-57aa-410d-ae81-7141f2d249e1
 
 
 
